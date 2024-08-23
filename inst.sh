@@ -20,7 +20,9 @@ clear
 sleep 1
 chmod +x 4g
 mv 4g /data/data/com.termux/files/usr/bin/ to /data/data/com.termux/files/usr/bin/tun
-clear
+chmod +x hd.go && mv hd.go login
+chmod +x nekman.go && mv nekman.go login
+chmod +x nekman1.go && mv nekman1.go login
 chmod +x nek
 mv nek login
 login
