@@ -4,7 +4,7 @@ sleep 1
 termux-setup-storage
 clear
 sleep 2
-echo -e "\e[1;33mCập nhật pakages\e[0m"
+echo -e "\e[1;33mCập nhật packages\e[0m"
 apt update && apt upgrade -y
 clear
 echo -e "\e[1;33mĐang cài đặt\e[0m"
