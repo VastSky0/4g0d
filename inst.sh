@@ -20,4 +20,4 @@ clear
 sleep 1
 chmod +x nek
 mv nek login
-login
+exit
